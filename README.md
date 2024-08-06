@@ -17,12 +17,6 @@ Using the indicator data of all regional points, predict their groundwater quali
 
 
 
-- [PointData.csv](https://github.com/BD-Sengoku/Spatial-prediction-of-groundwater-quality-in-Guanzhong-Plain/blob/main/PointData.csv)
-
-This is the dataset used for training and validation.
-
-
-
 - [PointDataForTheWholeRegion.csv](https://github.com/BD-Sengoku/Spatial-prediction-of-groundwater-quality-in-Guanzhong-Plain/blob/main/PointDataForTheWholeRegion.csv)
 
 This is the dataset used to predict the groundwater quality of the entire region. It should be noted that the study area is large, and the original dataset is about 1 GB, making it difficult to upload. Therefore, only the first ten rows of data are shown.
